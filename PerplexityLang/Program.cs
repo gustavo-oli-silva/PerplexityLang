@@ -8,7 +8,7 @@ class Program
     static void Main(string[] args)
     {
         Lexer l = new Lexer($"""
-                            if(Skeleton == "feio") return true
+                            if(Skeleton == "feiox") return true
                             return false
                             """);
         
